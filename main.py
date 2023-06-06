@@ -1,6 +1,6 @@
 from utils.file_system_utils import clone_filesystem_structure
 
-source_dir = '/path/to/source_directory'
-destination_dir = '/path/to/destination_directory'
+source_dir = "C:/Users/Afnan/Documents/agency"
+destination_dir = './target/'
 
 clone_filesystem_structure(source_dir, destination_dir)
